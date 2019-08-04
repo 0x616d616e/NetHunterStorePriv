@@ -1,6 +1,6 @@
-# NetHunter Store Privileged Extension Systemlessly
+# NetHunter Store Privileged Extension Systemless-ly Installer
 
-This is an unofficial installer of the NetHunter Store Privileged Extension. With the power of Magisk, this is done systemlessly.
+This is an unofficial installer of the NetHunter Store Privileged Extension. With the power of Magisk, this is done Systemless-ly.
 
 [XDA - NetHunter Store Privileged Extension]()
 

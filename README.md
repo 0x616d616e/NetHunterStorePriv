@@ -1,7 +1,9 @@
 # NetHunter Store Privileged Extension Systemlessly
 
 This is an unofficial installer of the NetHunter Store Privileged Extension. With the power of Magisk, this is done systemlessly.
+
 [XDA - NetHunter Store Privileged Extension]()
+
 [NetHunter Store](http://store.nethunter.com/en/)
 
 * Requires Magisk 17+

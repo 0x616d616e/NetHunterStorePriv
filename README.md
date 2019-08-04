@@ -1,15 +1,15 @@
 # NetHunter Store Privileged Extension Systemlessly
 
-This is an unofficial installer of the F-Droid Privileged Extension. With the power of Magisk, this is done systemlessly.
+This is an unofficial installer of the NetHunter Store Privileged Extension. With the power of Magisk, this is done systemlessly.
+[XDA - NetHunter Store Privileged Extension]()
+[NetHunter Store](http://store.nethunter.com/en/)
 
 * Requires Magisk 17+
 
-[XDA - NetHunter Store Privileged Extension]()
-
-## Install: 
+## Install
 Flash via Magisk or TWRP.
 
-## Credits:
+## Credits
 
 #### [ryaniskira](https://forum.xda-developers.com/member.php?s=d91ac7487ccde86591cb98f6d38f5326&u=5194259)
 * [XDA- F-Droid Privileged Extension](https://forum.xda-developers.com/apps/magisk/module-f-droid-privileged-extension-t3587068#post71796001)
@@ -17,7 +17,7 @@ Flash via Magisk or TWRP.
 
 
 
-## Changelog:
+## Changelog
 
 #### V1:
 * First Release
